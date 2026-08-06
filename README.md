@@ -2,7 +2,7 @@
 ## Sobre Mim
 - **Foco:** Desevolvimento Frontend, UI/UX e banco de dados.
 - **Aprendizado:** Atualmente desenvolvendo habilidades em backend e react.
-- **Objetivo: ** 
+- **Objetivo:** Produzir sites com UI/UX avançados e acessíveis, desenvolver desings e sites complexos.
 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAI
 ## 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark)](https://skillicons.dev)
