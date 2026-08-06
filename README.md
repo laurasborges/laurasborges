@@ -6,9 +6,9 @@
   
 ## Tecnologias e  Ferramentas 
 ###Backend
-[![My Skills](https://skillicons.dev/icons?i=python,javascript&theme=dark)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=python,javascript&theme=dark)](https://skillicons.dev)
 
 ###Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
 
