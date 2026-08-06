@@ -2,6 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Portfolio&message=LAURA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF4274&width=435&lines=Frontend+Developer+%7C+Websites+;Digital+Artist+;Comissions+Open" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="My-Illustration" min-width="400px" max-width="330px" width="330px" align="right">
 
