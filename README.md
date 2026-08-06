@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=Portfolio&message=LAURA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="330px" width="330px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="My-Illustration" min-width="400px" max-width="330px" width="330px" align="right">
 
 <p align="left">I am currently studying Systems Analysis and Development at SENAI, focusing on <strong>Frontend and UI/UX</strong>, with plans to delve deeper into back-end development to build complex websites, systems, and games. 
 Love doing designs and <strong>art commissions</strong>, my goal is to create accessible websites with advanced functionality. </p>
