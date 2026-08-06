@@ -19,7 +19,7 @@
 **Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nestjs,js,lua,mysql" alt="Backend icons" />
+    <img src="https://skillicons.dev/icons?i=py,nestjs,js,lua,mysql,postgre" alt="Backend icons" />
   </a>
 </p>
 
