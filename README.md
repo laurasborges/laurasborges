@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="330px" width="330px" align="right">
 
-<p align="left">I am currently studying Systems Analysis and Development at SENAI, focusing on <strong>Frontend and UI/UX</strong>, with plans to delve deeper into back-end development to build complex websites, systems, and games. With a background in design and do art commissions. </p>
+<p align="left">I am currently studying Systems Analysis and Development at SENAI, focusing on <strong>Frontend and UI/UX</strong>, with plans to delve deeper into back-end development to build complex websites, systems, and games. Love doing designs and do <strong>art commissions.</strong> </p>
 
 ### Technologies and Tools
 
