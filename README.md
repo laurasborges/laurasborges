@@ -4,7 +4,7 @@ I am currently studying Systems Analysis and Development at SENAI, focusing on f
 ## Tecnologies and Tools 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?ipy,nestjs,js,lua,mysql,html,css,react,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,nestjs,js,lua,mysql,html,css,react,figma,vscode" />
   </a>
 </p>
 
