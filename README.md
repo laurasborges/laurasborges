@@ -5,14 +5,19 @@
 - **Objetivo:** Produzir sites com UI/UX avançados e acessíveis, desenvolver desings e sites complexos.
   
 ## Tecnologias e  Ferramentas 
-###Backend
+### Backend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,py,nestjs,js,lua" />
   </a>
 </p>
 
-###Frontend
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css," />
+  </a>
+</p>
 
 
 
