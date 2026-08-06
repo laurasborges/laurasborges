@@ -1,23 +1,13 @@
 # Laura Borges - Full Stack Developer
-## Sobre Mim
-- **Foco:** Desevolvimento Frontend, UI/UX e banco de dados.
-- **Aprendizado:** Atualmente desenvolvendo habilidades em backend e react.
-- **Objetivo:** Produzir sites com UI/UX avançados e acessíveis, desenvolver desings e sites complexos.
+I am currently studying Systems Analysis and Development at SENAI, focusing on frontend and UI/UX, though I intend to delve into backend development to build complex websites, systems, and games. I have experience with design and art commissions, my goal is to create websites featuring advanced, accessible systems.
   
-## Tecnologias e  Ferramentas 
-### Backend
+## Tecnologies and Tools 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,nestjs,js,lua" />
+    <img src="https://skillicons.dev/icons?ipy,nestjs,js,lua,mysql,html,css,react,figma,vscode" />
   </a>
 </p>
 
-### Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,figma" />
-  </a>
-</p>
 
 
 
