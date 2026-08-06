@@ -12,14 +12,14 @@
 **Frontend & Design**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,figma,vscode" alt="Frontend icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,figma,vscode,vite" alt="Frontend icons" />
   </a>
 </p>
 
 **Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nestjs,js,lua,mysql,postgre" alt="Backend icons" />
+    <img src="https://skillicons.dev/icons?i=py,nestjs,js,lua,mysql,postgresql" alt="Backend icons" />
   </a>
 </p>
 
