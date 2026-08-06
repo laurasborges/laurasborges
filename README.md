@@ -6,9 +6,13 @@
   
 ## Tecnologias e  Ferramentas 
 ###Backend
-(https://skillicons.dev/icons?i=python,javascript&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,py,nestjs,js,lua" />
+  </a>
+</p>
 
 ###Frontend
-(https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
 
 
